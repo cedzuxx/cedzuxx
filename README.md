@@ -16,9 +16,11 @@
   <img src="https://lanyard.cnrad.dev/api/1216847899250524180" alt="haha">
 
   - <h1> designing & editing </h1>
+  <center>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/adobe%20premiere%20pro-%23212BDE.svg?style=for-the-badge&logo=adobe%20pr&logoColor=white" alt = "premiere" />
   <img src = "https://img.shields.io/badge/adobe%20after%20effects-%23181FA8.svg?style=for-the-badge&logo=adobe%20ae&logoColor=white" alt = "aftereffects" />
+  </center>
   <br>
   <br>
   </div>
