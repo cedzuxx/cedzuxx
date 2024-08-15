@@ -31,11 +31,8 @@
 
   <div align="center">
 
-  [![widget](https://invidget.switchblade.xyz/revshit)](https://discord.gg/revshit)
-    
-  </div>
-    <div align="center">
-
+  [![widget](https://invidget.switchblade.xyz/revshit)](https://discord.gg/revshit) 
   [![widget](https://invidget.switchblade.xyz/xorev)](https://discord.gg/xorev)
+  [![widget](https://invidget.switchblade.xyz/souraki)](https://discord.gg/souraki)
     
   </div>
