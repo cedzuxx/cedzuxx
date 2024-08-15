@@ -4,12 +4,7 @@
 
   <h1>// about me</h1>
   - 15 | Philippines
-  <br>
-  - <a href="https://discord.gg/xorev">XOREV</a>
-  <br>
-  - <a href="https://discord.gg/souraki">SOURAKI</a>
-  <br>
-  - <a href="https://discord.gg/xtazy">XTAZY</a>
+  - HTML | JS | CSS | PYTHON | CURENTLY WORKING ON JAVA
 
   <h1>// Socials</h1>
   - <a href = "https://souraki.xyz/ced">cedzuxx</a>
