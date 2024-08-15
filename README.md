@@ -11,11 +11,11 @@
   <br>
   - <a href="https://discord.gg/xtazy">XTAZY</a>
 
-  <h2>// Socials</h2>
+  <h1>// Socials</h1>
   - <a href = "https://souraki.xyz/ced">cedzuxx</a>
   <br>
 
-  <h3>// DISCORD PRESENCE</h3>
+  <h1>// DISCORD PRESENCE</h1>
   
   <img src="https://lanyard.cnrad.dev/api/1216847899250524180" alt="haha">
 
