@@ -4,6 +4,7 @@
 
   <h1>// about me</h1>
   - 15 | Philippines
+  <br>
   - HTML | JS | CSS | PYTHON | CURENTLY WORKING ON JAVA
 
   <h1>// Socials</h1>
