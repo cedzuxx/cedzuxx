@@ -14,6 +14,7 @@
   <h1>// Discord Presence</h1>
   
   <img src="https://lanyard.cnrad.dev/api/1216847899250524180" alt="haha">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5m45m7yzgfntdbhkasolbvgdq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="haha">
 
   - <h1> designing & editing </h1>
   <center>
@@ -33,6 +34,3 @@
     
   </div>
 
-<center>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5m45m7yzgfntdbhkasolbvgdq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="haha">
-</center>
