@@ -29,7 +29,7 @@
 
   [![widget](https://invidget.switchblade.xyz/revshit)](https://discord.gg/revshit) 
   [![widget](https://invidget.switchblade.xyz/xorev)](https://discord.gg/xorev)
-  [![widget](https://invidget.switchblade.xyz/souraki)](https://discord.gg/souraki)
+  [![widget](https://invidget.switchblade.xyz/srk)](https://discord.gg/srk)
     
   </div>
 
