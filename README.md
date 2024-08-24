@@ -32,3 +32,5 @@
   [![widget](https://invidget.switchblade.xyz/souraki)](https://discord.gg/souraki)
     
   </div>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t5m45m7yzgfntdbhkasolbvgdq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
