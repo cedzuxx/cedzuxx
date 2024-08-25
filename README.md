@@ -1,6 +1,6 @@
 
   <div>
-  <img align="right" width="400" alt="cedzu" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-1001.gif"/>
+  <img align="right" width="400" alt="cedzu" src="https://i.scdn.co/image/ab67616d0000b27377ace753ef3ab73d0c46b89f"/>
 
   </div>
 
