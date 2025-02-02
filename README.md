@@ -23,8 +23,8 @@
 </div>
 
 
-  <div style="background: rgba(255, 255, 255, 0); border-radius: 10px; padding: 20px; margin: 20px 0;">
-    <img src="https://lanyard.cnrad.dev/api/1216847899250524180" alt="Discord Status">
+  <div style="background: transparent; border-radius: 10px; padding: 20px; margin: 20px 0;">
+      <img src="https://lanyard.cnrad.dev/api/1216847899250524180?theme=dark&bg=transparent&idleMessage=Currently%20not%20doing%20anything...&borderRadius=10px&textColor=8A2BE2" alt="Discord Status">
   </div>
 
   <div style="background: rgba(137, 43, 226, 0); border-radius: 10px; padding: 20px; margin: 20px 0;">
