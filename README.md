@@ -8,12 +8,6 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=whoami;my+name+is+cedzu;based+in+the+philippines;i'm+16+yrs+old" alt="Typing SVG">
 
-  <h3>
-    <a href="https://xtazy.world/cedzu" style="text-decoration: none; color: #8A2BE2; font-weight: bold;">
-      @cedzu
-    </a>
-  </h3>
-
 <div style="margin: 20px 0;">
     <img src="https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
