@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=whoami;my+name+is+cedzu;based+in+the+philippines;i'm+16+yrs+old" alt="Typing SVG">
 
   <h3>
-    <a href="https://souraki.xyz/ced" style="text-decoration: none; color: #8A2BE2; font-weight: bold;">
+    <a href="https://xtazy.world/cedzu" style="text-decoration: none; color: #8A2BE2; font-weight: bold;">
       @cedzu
     </a>
   </h3>
