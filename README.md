@@ -16,8 +16,6 @@
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "nodejs"/>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql"/>
     <img src="https://img.shields.io/badge/Python-f1c232?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Python-f1c232?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  
 </div>
 
 
