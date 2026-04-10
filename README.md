@@ -22,21 +22,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/> 
   </div>
 
-  <div align="center">
-    <a href="https://github.com/cedzuxx" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </div>
-
-  
   <div style="margin-top: 30px;">
     <img src="https://komarev.com/ghpvc/?username=cedzuxx&color=8A2BE2&style=for-the-badge" alt="Profile Views">
     <img src="https://img.shields.io/github/followers/cedzuxx?label=Followers&style=for-the-badge&color=8A2BE2" alt="GitHub Followers">
   </div>
 
-  <div style="margin-top: 40px;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" width="100%"/>
-  </div>
 
 </div>
 
