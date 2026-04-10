@@ -2,10 +2,8 @@
   <img width="200" src="https://imgs.search.brave.com/mdiKKuGXmI8-zt_LDo68vmU2ZnUfRVUpdh4MYk6XMRM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdmL2Q2/L2RlLzdmZDZkZWJm/YTZjNDQxZmNjNGRj/N2VkN2YxNjg4ZGVl/LmpwZw" style="border-radius: 50%; border: 4px solid #8A2BE2; box-shadow: 0 0 30px rgba(138, 43, 226, 0.8); animation: pulse 2s infinite;">
   <h1 style="background: linear-gradient(45deg,rgb(132, 0, 255),rgb(0, 0, 0)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3em; margin: 20px 0;">
     <img src="https://cdn.discordapp.com/emojis/1186724536310308915.webp?size=40&animated=true" width="40px"> 
-    Cedzu
+    cedzu
   </h1>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
   ## About Me
   
